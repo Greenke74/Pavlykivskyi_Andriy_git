@@ -1,0 +1,2 @@
+https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a 
+Ця стаття описує основні принципи clean code, які є одною з основних вимог для сучасного програмування
